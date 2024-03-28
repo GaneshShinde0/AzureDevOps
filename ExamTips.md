@@ -24,5 +24,6 @@
 - Alerts: Implement metric alerts to notify team members.
 
 ### Azure Monitor
+![](AzureMonitor.svg)
 - How various applications are doing and issues that may occur.
 - 
